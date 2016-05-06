@@ -1,6 +1,6 @@
 <div class="jumbotron">
-  <h2><%= gettext "Welcome to %{name}", name: "Let's Talk!" %></h2>
-  <p class="lead">An Innov8s project to experiment with Pheonix sockets.</p>
+  <h2><%= gettext "Welcome to %{name}", name: "Innov8s Chat!" %></h2>
+  <p class="lead">An project to experiment with Pheonix sockets.</p>
 </div>
 
 <div id="messages"></div>

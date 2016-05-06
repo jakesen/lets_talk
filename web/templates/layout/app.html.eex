@@ -7,7 +7,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>LetsTalk!</title>
+    <title>Innov8s Chat</title>
     <link rel="stylesheet" href="<%= static_path(@conn, "/css/app.css") %>">
   </head>
 
@@ -19,7 +19,7 @@
             <li><a href="/about">About</a></li>
           </ul>
         </nav>
-        <span class="logo"></span>
+        <a class="logo" href="/"></a>
       </header>
 
       <p class="alert alert-info" role="alert"><%= get_flash(@conn, :info) %></p>
