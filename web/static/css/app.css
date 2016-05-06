@@ -24,11 +24,11 @@ form.link, form.button {
 }
 .logo {
   width: 519px;
-  height: 71px;
+  height: 255px;
   display: inline-block;
   margin-bottom: 1em;
-  background-image: url("/images/phoenix.png");
-  background-size: 519px 71px;
+  background-image: url("//static1.squarespace.com/static/5287080ee4b0020f1bc6b861/t/5323bcbee4b09aa77d040d52/1394851072591/People+Talking.jpg?format=519w");
+  background-size: 519px 255px;
 }
 
 /* Everything but the jumbotron gets side spacing for mobile first views */

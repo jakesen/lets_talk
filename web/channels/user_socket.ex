@@ -2,7 +2,7 @@ defmodule LetsTalk.UserSocket do
   use Phoenix.Socket
 
   ## Channels
-  # channel "rooms:*", LetsTalk.RoomChannel
+  channel "rooms:*", LetsTalk.RoomChannel
 
   ## Transports
   transport :websocket, Phoenix.Transports.WebSocket,
